@@ -12,8 +12,14 @@ clerks, and managers.
 Developed by: Decena, De Guzman, and Espiritu
 In Fulfillment of the Project Requirements of: CMSC 22
 
-Usernames: manager, clerk01, clerk02, clerk03, clerk04, clerk05
-Password: 123
+Default user logins:
+
+manager->123, 
+clerk01 // 123
+clerk02 // 123
+clerk03 // 123
+clerk04 // 123
+clerk05 // 123
 
 */
 
