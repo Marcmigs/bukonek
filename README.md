@@ -8,7 +8,9 @@ system built around three interconnected roles: customers,
 clerks, and managers.
 
 Developed by: Decena, De Guzman, and Espiritu
+
 In Fulfillment of the Project Requirements of: CMSC 22
 
 Usernames: manager, clerk01, clerk02, clerk03, clerk04, clerk05
+
 Password: 123
